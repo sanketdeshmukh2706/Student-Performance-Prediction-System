@@ -1,4 +1,4 @@
-# 🎓 Student Performance Prediction and Personalized Feedback System
+# 🎓Student Performance Prediction System
 
 ## 📊 Project Overview
 This project is a web-based student performance analysis system developed using Flask and Python. The application helps analyze student academic performance, generate report cards, visualize subject-wise marks, and provide personalized feedback based on student results.
